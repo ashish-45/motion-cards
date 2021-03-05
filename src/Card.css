@@ -1,0 +1,57 @@
+.card1{
+    width: 285px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    box-shadow: 0 2px 7px 1px rgba(31,31,31,0.2);
+    position: relative;
+    cursor: grab;
+    margin-top: 50px;
+    background-image: url("https://images.unsplash.com/photo-1479660656269-197ebb83b540?dpr=2&auto=compress,format&fit=crop&w=1199&h=798&q=80&cs=tinysrgb&crop=");
+    background-size: cover;
+}
+
+ .card1 span:hover{
+    display: block;
+    color: aqua;
+}
+
+
+.card2{
+    width: 285px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    box-shadow: 0 2px 7px 1px rgba(31,31,31,0.2);
+    position: relative;
+    cursor: grab;
+    margin-top: 50px;
+    background-image: url("https://images.unsplash.com/photo-1479659929431-4342107adfc1?dpr=2&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=");
+    background-size: cover;
+}
+
+ .card2 span:hover{
+    display: block;
+    color: aqua;
+}
+
+.card3{
+    width: 285px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    box-shadow: 0 2px 7px 1px rgba(31,31,31,0.2);
+    position: relative;
+    cursor: grab;
+    margin-top: 50px;
+    background-image: url("https://images.unsplash.com/photo-1479621051492-5a6f9bd9e51a?dpr=2&auto=compress,format&fit=crop&w=1199&h=811&q=80&cs=tinysrgb&crop=");
+    background-size: cover;
+}
+
+ .card3 span:hover{
+    display: block;
+    color: aqua;
+}
